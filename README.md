@@ -1,8 +1,9 @@
 # spotify-github-bot
 # just vibes
 
-LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fix this with proper directions but it works for me right now !!
+ will fix this with proper directions + make it available as a decent package or whatever
 
+ 
 ## Description
 **Spotify GitHub Bot**: whenever you commit, it shows you what you were listening to at the time of the commit !! which is actually so cutesie and so slay ?! hello ?!
 
@@ -43,4 +44,3 @@ LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fi
    - Run the bot and ensure it works as expected.
    - Fix any errors that arise during the setup process
 
-ok
