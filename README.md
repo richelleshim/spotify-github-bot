@@ -44,4 +44,4 @@ LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fi
    - Run the bot and ensure it works as expected.
    - Fix any errors that arise during the setup process (I probably forgot something, sorry!).
 
-rev
+rev3
