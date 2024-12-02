@@ -1,6 +1,5 @@
 # spotify-github-bot
 
-# Spotify GitHub Bot
 
 LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fix this with proper directions but it works for me right now !!
 
@@ -42,5 +41,5 @@ LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fi
 
 5. **Debug Issues**:
    - Run the bot and ensure it works as expected.
-   - Fix any errors that arise during the setup process (I probably forgot something, sorry!).
+   - Fix any errors that arise during the setup process
 
