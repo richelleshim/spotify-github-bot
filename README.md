@@ -1,4 +1,5 @@
 # spotify-github-bot
+# just vibes
 
 LMAO IM SO DUMB... my `.git` folder isn't in this repo, so that sucks... will fix this with proper directions but it works for me right now !!
 
