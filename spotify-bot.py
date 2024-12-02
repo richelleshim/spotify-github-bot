@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
+
 # Load environment variables
 load_dotenv()
 

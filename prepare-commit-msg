@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# Fetch the current song from the Spotify bot
-current_song=$(python3 /Users/richelleshim/spotify-git-bot/spotify-bot.py)
-
-# Append the song information to the commit message
-if [ -n "$current_song" ]; then
-    echo "🎵 Currently listening to: $current_song" >> "$1"
-fi
