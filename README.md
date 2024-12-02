@@ -1,8 +1,6 @@
 # spotify-github-bot
 
-test
-test 
-YAYYY OMG I'M ACTUALLY SO HAPPY IT WORKS : YAYYAYAYYA
+LMAO IM SO DUMB... my .git folder isn't in this repo so that sucks... will fix with directions but it works for me right now !! 
 
 DIRECTIONS: 
 
