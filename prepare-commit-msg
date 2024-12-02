@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# (that's so) FETCH the current song from the Spotify bot
+current_song=$(python3 /yourPath/spotify-bot.py 2>/dev/null)
+
+
+if [ $? -ne 0 ]; then
+    echo "error: failed to fetch the current song" >&2
+    exit 1
+fi
+
+if [ -n "$current_song" ]; then
+    echo "🎵 Commit made while listening to: $current_song" >> "$1"
+
+else
+    echo "no song information available."
+fi
+
+
