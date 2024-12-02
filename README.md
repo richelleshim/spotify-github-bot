@@ -2,6 +2,10 @@
 
 LMAO IM SO DUMB... my .git folder isn't in this repo so that sucks... will fix with directions but it works for me right now !! 
 
+read me description to be improved : 
+
+description: whenever you commit, it shows you what 
+
 DIRECTIONS: 
 
 rename the .env-copy file to .env
